@@ -1,0 +1,2 @@
+The *~ rule in your .gitignore file will tell Git to ignore any files that end in a tilde (~), which is a common extension used by Emacs to save backup files. this will ensure that these backup files are not accidentally pushed to your Git repository.
+
